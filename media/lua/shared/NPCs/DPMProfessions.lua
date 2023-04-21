@@ -90,6 +90,38 @@ DPMPerkMapping = {
     Tailoring = Perks.Tailoring
 }
 
+DPMPerkMapping_v40 = {
+    Aiming = Perks.Aiming,
+    Axe = Perks.Axe,
+    Blunt = Perks.Blunt,
+    Cooking = Perks.Cooking,
+    Doctor = Perks.Doctor,
+    Electricity = Perks.Electricity,
+    Farming = Perks.Farming,
+    Fishing = Perks.Fishing,
+    Firearm = Perks.Firearm,
+    Fitness = Perks.Fitness,
+    Lightfoot = Perks.Lightfoot,
+    LongBlade = Perks.BladeGuard,
+    Maintenance = Perks.BladeMaintenance,
+    B_Maintenance = Perks.BluntMaintenance,
+    Mechanics = Perks.Mechanics,
+    MetalWelding = Perks.MetalWelding,
+    Nimble = Perks.Nimble,
+    PlantScavenging = Perks.PlantScavenging,
+    Reloading = Perks.Reloading,
+    SmallBlade = Perks.BladeGuard,
+    SmallBlunt = Perks.Blunt,
+    Sneak = Perks.Sneak,
+    Spear = Perks.Spear,
+    Sprinting = Perks.Sprinting,
+    Strength = Perks.Strength,
+    Survivalist = Perks.Survivalist,
+    Tailoring = Perks.None,
+    Trapping = Perks.Trapping,
+    Woodwork = Perks.Woodwork    
+}
+
 DPMFreeTraitConfig = {
     {
         type = "dpm_KeenHearing",

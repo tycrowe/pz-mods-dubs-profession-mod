@@ -1,0 +1,111 @@
+[h1]Description:[/h1]
+Dub's Profession Mod for build 41+ returns with 84 new vanilla-like professions, each balanced out to the best of my ability.
+Note, this mod does NOT override, change or otherwise mess with the vanilla professions.
+
+[h1]Balancing Algorithm:[/h1]
+Consider each bonus beyond default, a -1 cost to the profession. Eg. If you have first aid level 8, your base cost will be -8 points.
+How DPM is balanced: IF the player has <= -5 points THEN divide the total deficit by -2 and award 3+ "free points" on top of the base deficit ELSE divide the total deficit by -2.
+
+This creates a vanilla-like balancing of making the "higher performing" professions require more drawbacks in order to assume. In later updates, some professions may be given weapons, armor and items to counteract further imbalance.
+
+[h1]Compatibly:[/h1]
+Mod now works with build 41+, both multiplayer and singleplayer tested. DPM does NOT require any other mods to work.
+
+[h1]New Profesions[/h1]
+ Format: [Category] Profession
+ - [Medical/Science] Lifeguard
+ - [Medical/Science] Paramedic
+ - [Medical/Science] Registered Nurse
+ - [Medical/Science] Surgeon
+ - [Medical/Science] Psychiatrist
+ - [Medical/Science] Zookeeper
+ - [Medical/Science] Veterinarian
+ - [Medical/Science] Veterinarian Surgeon
+ - [Medical/Science] Laboratory Technician
+ - [Medical/Science] Botanist
+ - [Medical/Science] Dentist
+ - [Medical/Science] Pharmacist
+ - [Trade/Skill] Offshore Worker
+ - [Trade/Skill] Plumber
+ - [Trade/Skill] Blacksmith
+ - [Trade/Skill] Gunsmith
+ - [Trade/Skill] Architect
+ - [Trade/Skill] Tailor
+ - [Trade/Skill] Landscaper
+ - [Information/Tech] Programmer
+ - [Information/Tech] Software Engineer
+ - [Information/Tech] Financial Analyst
+ - [Information/Tech] Data Scientist
+ - [Information/Tech] Computer Scientist
+ - [Business/Finance] Accountant
+ - [Business/Finance] Stock Broker
+ - [Business/Finance] Loan Officer
+ - [Business/Finance] Claims Adjuster
+ - [Business/Finance] Salesman
+ - [Business/Finance] Entrepreneur
+ - [Public Services] Lawyer
+ - [Public Services] Judge
+ - [Public Services] Detective
+ - [Public Services] Landlord
+ - [Public Services] Politician
+ - [Public Services] Librarian
+ - [Public Services] Garbage Man
+ - [Public Services] Correctional Officer
+ - [Public Services] Public Defender
+ - [Public Services] Pilot
+ - [Military] Soldier
+ - [Military] Mercenary
+ - [Military] Helicopter Pilot
+ - [Military] Fighter Pilot
+ - [Crime] Hacker
+ - [Crime] Paparazzi
+ - [Crime] Mobster
+ - [Crime] Serial Killer
+ - [Crime] Hitman
+ - [Religious] Priest
+ - [Religious] Nun
+ - [Religious] Missionary
+ - [Religious] Spiritual Leader
+ - [Religious] Psychic
+ - [Education] Social Worker
+ - [Education] Teacher
+ - [Education] Professor
+ - [Education] Student
+ - [Food Industry] Baker
+ - [Food Industry] Florist
+ - [Food Industry] Dietitian
+ - [Entertainment] Writer
+ - [Entertainment] Musician
+ - [Entertainment] Dancer
+ - [Entertainment] Actor
+ - [Entertainment] Artist
+ - [Entertainment] Comedian
+ - [Entertainment] Photographer
+ - [Entertainment] Professional Athlete [Football]
+ - [Entertainment] Professional Athlete [Baseball]
+ - [Entertainment] Professional Athlete [Basketball]
+ - [Entertainment] Professional Athlete [Track]
+ - [Entertainment] Referee
+ - [Entertainment] Bartender
+ - [Entertainment] Magician
+ - [Entertainment] Clown
+ - [Entertainment] Video Game Programmer
+ - [Entertainment] Performer
+ - [Entertainment] Film Director
+ - [Jobs/Other] Waiter
+ - [Jobs/Other] Warehouse Worker
+ - [Jobs/Other] Secretary
+ - [Jobs/Other] Taxi Driver
+ - [Jobs/Other] Retail Worker
+
+
+[h1]Kits[/h1]
+Kits will return in a later update, I'm working on getting these more balanced out.
+
+[h1]Upcoming Features [Build 41+]:[/h1]
+ - Kits
+ - Probably more profession balancing
+ - Child mod that will include new traits (DPM will remain solely a professions only mod)
+
+Workshop ID: 740886034
+Mod ID: DubsProfessionMod
